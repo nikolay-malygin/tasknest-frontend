@@ -1,0 +1,13 @@
+.inputField, .inputField::placeholder {
+	color: var(--color-body-text) !important;
+}
+
+.inputField {
+	border-color: var(--color-tertiary);
+}
+
+.inputField:focus {
+	box-shadow: none;
+	border-color: var(--color-header-text);
+	background-color: inherit;
+}

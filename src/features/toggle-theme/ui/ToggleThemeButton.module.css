@@ -1,0 +1,4 @@
+
+.toggleButton:active {
+	border-color: transparent !important;
+}
