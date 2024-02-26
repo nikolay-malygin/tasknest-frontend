@@ -24,7 +24,8 @@ const DeleteTaskButton = ({ taskId, onSuccess }) => {
 			icon={DELETE_ICON}
 			iconClasses={'m-0'}
 			data-bs-toggle='modal'
-			data-bs-target={`#delete-task-${taskId}`}></UiButton>
+			data-bs-target={`#delete-task-${taskId}`}
+		/>
 	);
 
 	const onConfirmButton = (

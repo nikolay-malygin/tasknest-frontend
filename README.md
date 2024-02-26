@@ -34,3 +34,26 @@ TaskNest is a simple and user-friendly Task Management System developed with Nes
 
 -   `Filter functionality`
     -   Allows users to filter tasks by category.
+
+## 📸 Screenshots
+
+-   `Sign In Screen (Light Mode)`
+
+![Sign In Screen](public/screenshots/sign_in.png)
+
+-   `Sign Up Screen (Dark Mode)`
+
+![Sign Up Screen](public/screenshots/sign_up_dark.png)
+
+-   `Main Page (Light Mode)`
+
+![Main Screen](public/screenshots/main.png)
+
+-   `Main Page (Dark Mode)`
+
+![Main Screen](public/screenshots/main_dark.png)
+
+-   `Edit Task`
+
+![Edit Task](public/screenshots/edit_task.png)
+
